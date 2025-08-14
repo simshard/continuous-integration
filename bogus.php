@@ -12,7 +12,9 @@ class NewPasswordController extends Controller
             'token' => $request->route('token'),
         ]);
     }
-
+/**
+ * **eeek
+ */
     /**
      * Handle an incoming new password request.
      *
